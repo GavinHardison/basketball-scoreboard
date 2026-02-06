@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #1B244A;
+    background-color: #020202;
     color: #EEEEEE;
 }
 
@@ -10,7 +10,12 @@ body {
     justify-content: space-evenly;
     flex-direction: row;
     text-align: center;
-    margin-top: 68px;
+    background-color: #1B244A;
+    width: 575px;
+    height: 310px;
+    margin: 50px auto;
+    padding: 68px 82px;
+    gap: 100px;
 }
 
 .section-container {
